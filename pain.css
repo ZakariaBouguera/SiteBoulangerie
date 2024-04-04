@@ -1,0 +1,71 @@
+h1 { 
+	text-align : left;
+	color : red;
+	margin-left : 65px;
+	margin-top : 40px;
+	text-transform : uppercase;
+	
+}
+h2 {
+	text-align : center;
+	color : Beige; 
+	text-decoration : underline;
+	text-transform : uppercase;
+	font-weight : bold;
+}
+
+body { 
+		
+	background-image: url(https://images7.alphacoders.com/330/330077.jpg);
+	background-repeat:repeat;
+	color : white ;
+	font-family : 'Verdana';
+	font-size: 18px;
+	font-weight : bold;
+	}
+
+	
+.image{
+	
+	text-align : center;
+	
+}
+.image2{
+	display : flex;
+	flex-direction : row;
+	justify-content : space-evenly;
+	}
+	
+
+h4 {
+	text-decoration : underline;
+	text-transform : uppercase;
+	
+	}
+table {
+	border-style : double ;
+	border-width : thin;
+	
+	}
+th  {
+	border-style : double ;
+	border-width : medium;
+	background-color : black;
+	}
+td {
+	border-style : double ;
+	border-width : thin;
+	background-color : black;
+	}
+.db {
+	word-spacing: 400px;
+	margin-left : 65px;
+	margin-top : 40px;
+	border-style : double ;
+	border-width : medium;
+	display: flex ;
+	flex-direction : row;
+	flex-wrap : wrap;
+	justify-content: space-between;
+	background-color : beige;
+}

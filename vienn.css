@@ -1,0 +1,76 @@
+h2 { 
+	text-align : center;
+	color : black; 
+	text-decoration : underline;
+	text-transform : uppercase;
+	font-weight : bold;
+	font-size : 30px;
+
+}
+h1 { 
+	text-align : left;
+	color : red;
+	margin-left : 65px;
+	margin-top : 40px;
+	text-transform : uppercase;
+	border-style : double ;
+	border-width : thin;
+	background-color : black;
+	
+}
+.db {
+	word-spacing: 400px;
+	margin-left : 0px;
+	margin-top : 40px;
+	border-style : double ;
+	border-width : medium;
+	display: flex ;
+	flex-direction : row;
+	flex-wrap : wrap;
+	justify-content: space-between;
+	background-color : black;
+	font-size : 20px
+	}
+.img {
+	width: 1800px;
+    height: 800px;
+	text-align : center;
+	display: flex ;
+	flex-direction : row;	
+	justify-content: space-evenly;
+	align-items : center;
+	}
+
+.image2 {
+	width: 1680px;
+	height: 1000px;
+	text-align : center;
+	display: flex ;
+	flex-direction : row;	
+	justify-content: space-evenly;
+	align-items : center;
+	}
+body { 
+		
+	background-image:  url(https://images7.alphacoders.com/333/thumb-1920-333583.jpg);
+	background-repeat:repeat;
+
+	}
+h3{
+	background-color: black;
+	color : brown;
+	font-size : 25px;
+	text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
